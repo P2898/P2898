@@ -99,8 +99,11 @@ A responsive, visually engaging front-end web application showcasing Indian heri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P2898&show_icons=true&theme=radical" alt="Gayatri's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P2898&layout=compact&theme=radical" alt="Top Langs" />
+
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2898&show_icons=true&theme=radical)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P2898&layout=compact&theme=radical)
+
 </div>
 
 ---
