@@ -42,6 +42,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-%234285F4.svg?style=for-the-badge&logo=google-apps-script&logoColor=white)
 
 **DevOps, AI & Tools:**
 <br/>
@@ -53,6 +54,11 @@
 ---
 
 ## 🌟 Featured Projects
+
+### 🔥 [Fire Assay Management System](https://github.com/P2898/Fire-Assay-project)
+A comprehensive, end-to-end laboratory management system tailored for the jewelry and hallmarking industry.
+* **Tech:** Google Apps Script, HTML5, CSS3, Vanilla JS
+* **Highlights:** Job Card Creation, XRF Entry, Fire Assay process tracking, QC Review, automated invoicing, and inventory management.
 
 ### 📡 [Anedya AutomatIQ](https://github.com/P2898/Anedya-AutomatIQ)
 A smart, autonomous edge-computing IoT SaaS platform designed for advanced real-time telemetry monitoring and automated hardware remediation.
