@@ -105,6 +105,11 @@ A responsive, visually engaging front-end web application showcasing Indian heri
 
 ---
 
+## 🤖 AI Collaboration
+Curious about how I manage my repositories, automate documentation, and enforce security? Check out my [AI-Assisted Development & DevOps Workflow Log](./AI_Collaboration_Log.md) to see how I leverage AI agents to supercharge my productivity!
+
+---
+
 <p align="center">
   <i>Let's connect and build something awesome together!</i>
 </p>
