@@ -94,22 +94,6 @@ A responsive, visually engaging front-end web application showcasing Indian heri
 * **Tech:** HTML5, CSS3, Vanilla JS
 * **Highlights:** Video background sliders, clean modular UI, built purely with core web technologies for maximum performance.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2898&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P2898&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🤖 AI Collaboration
-Curious about how I manage my repositories, automate documentation, and enforce security? Check out my [AI-Assisted Development & DevOps Workflow Log](./AI_Collaboration_Log.md) to see how I leverage AI agents to supercharge my productivity!
 
 ---
 
