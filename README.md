@@ -51,6 +51,11 @@
 
 ## 🌟 Featured Projects
 
+### 🌐 Mini CDN (NetCDN)
+A custom mini Content Delivery Network (CDN) implementation focused on reducing latency through edge-server simulation, intelligent caching, and geo-routing.
+* **Tech:** React (Vite), Tailwind CSS, Node.js, Express, MongoDB, Docker
+* **Highlights:** Geo-based load balancing, active health monitoring, global cache purging, and containerized backend architecture.
+
 ### 📱 [MachineXchange](https://github.com/P2898/Hallmarking_App)
 A specialized full-stack B2B mobile marketplace for buying and selling pre-owned jewellery-testing equipment.
 * **Tech:** React Native (Expo), Node.js, MySQL, Firebase Auth/Firestore, Socket.io, Tailwind CSS
