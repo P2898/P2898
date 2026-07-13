@@ -55,6 +55,11 @@
 
 ## 🌟 Featured Projects
 
+### ⚡ [ZAPP Universal Translator](https://github.com/P2898/ZAPP_Hackathon)
+A real-time multilingual translation web app powered by Groq AI and LLaMA 3, supporting 100+ languages with voice input and text-to-speech.
+* **Tech:** Python, Flask, Flask-SocketIO, Groq API, HTML5, CSS3, JavaScript
+* **Highlights:** Ultra-low latency WebSocket translations, speech-to-text, text-to-speech, and dynamic dark mode UI.
+
 ### 🔥 [Fire Assay Management System](https://github.com/P2898/Fire-Assay-project)
 A comprehensive, end-to-end laboratory management system tailored for the jewelry and hallmarking industry.
 * **Tech:** Google Apps Script, HTML5, CSS3, Vanilla JS
