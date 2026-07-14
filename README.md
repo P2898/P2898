@@ -90,17 +90,17 @@ An advanced attendance system blending AI facial recognition, voice interaction,
 * **Tech:** Python, OpenCV, Flask, MySQL, ESP32, Pyttsx3
 * **Highlights:** Real-time face recognition, HTTP triggers to ESP32 for hardware actions (door locks/LEDs), and a speech-enabled LLM querying engine.
 
-### 🧠 Local & Cloud AI Chatbots
+### 🧠 [Local & Cloud AI Chatbots](https://github.com/P2898/Chatbot)
 Interactive AI chatbots built with dual backend approaches to demonstrate local vs. cloud execution.
 * **Tech:** Streamlit, OpenAI API, Hugging Face Transformers (Phi-4-mini-instruct)
 * **Highlights:** Clean ChatGPT-like web UI, and localtunnel integration for easy remote hosting on Google Colab.
 
-### 🧭 Multi-Agent RRT Path Planner
+### 🧭 [Multi-Agent RRT Path Planner](https://github.com/P2898/Path-Planner)
 An interactive 2D physics simulation for multi-agent path planning.
 * **Tech:** Python, Pygame, NumPy
 * **Highlights:** Implements the Rapidly-exploring Random Tree (RRT) algorithm, dynamic obstacle handling, spline interpolation, and smooth trajectory execution.
 
-### 🕌 History Journeys - Indian Travel Guide
+### 🕌 [History Journeys - Indian Travel Guide](https://github.com/P2898/indian_heritage)
 A responsive, visually engaging front-end web application showcasing Indian heritage and travel packages.
 * **Tech:** HTML5, CSS3, Vanilla JS
 * **Highlights:** Video background sliders, clean modular UI, built purely with core web technologies for maximum performance.
