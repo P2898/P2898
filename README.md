@@ -85,7 +85,7 @@ A robust, serverless mobile application for tracking field teams and automating 
 * **Tech:** React Native, Expo Background Location, Google Apps Script, Google Sheets
 * **Highlights:** Background GPS tracking, live admin dashboard, Haversine distance calculation, and a completely free Google Sheets-as-a-database backend.
 
-### 🤖 AI-Powered Face Recognition Attendance System
+### 🤖 [AI-Powered Face Recognition Attendance System](https://github.com/P2898/Face-Recognition-Attendance-System)
 An advanced attendance system blending AI facial recognition, voice interaction, and IoT hardware.
 * **Tech:** Python, OpenCV, Flask, MySQL, ESP32, Pyttsx3
 * **Highlights:** Real-time face recognition, HTTP triggers to ESP32 for hardware actions (door locks/LEDs), and a speech-enabled LLM querying engine.
