@@ -70,7 +70,7 @@ A smart, autonomous edge-computing IoT SaaS platform designed for advanced real-
 * **Tech:** React 19, Node.js, Server-Sent Events (SSE), JWT, Recharts
 * **Highlights:** Digital Twin simulation engine, no-code visual rule builder, machine-speed anomaly detection, and Role-Based Access Control (RBAC).
 
-### 🌐 Mini CDN (NetCDN)
+### 🌐 [Mini CDN (NetCDN)](https://github.com/P2898/mini_cdn)
 A custom mini Content Delivery Network (CDN) implementation focused on reducing latency through edge-server simulation, intelligent caching, and geo-routing.
 * **Tech:** React (Vite), Tailwind CSS, Node.js, Express, MongoDB, Docker
 * **Highlights:** Geo-based load balancing, active health monitoring, global cache purging, and containerized backend architecture.
