@@ -99,9 +99,9 @@ Interactive AI chatbots with dual backend approaches — a cloud-powered OpenAI 
 * **Highlights:** Persistent conversation history, secure `.env`-based API key handling, GPU-accelerated local inference, and one-command public URL sharing via localtunnel on Google Colab.
 
 ### 🧭 [Multi-Agent RRT Path Planner](https://github.com/P2898/Path-Planner)
-An interactive 2D physics simulation for multi-agent path planning.
+An interactive 2D multi-agent navigation simulation featuring real-time path planning and dynamic replanning.
 * **Tech:** Python, Pygame, NumPy
-* **Highlights:** Implements the Rapidly-exploring Random Tree (RRT) algorithm, dynamic obstacle handling, spline interpolation, and smooth trajectory execution.
+* **Highlights:** Multi-agent concurrent execution, dynamic obstacle drawing, adaptive local RRT path repair, Catmull-Rom spline smoothing, and local repulsive inter-agent avoidance.
 
 ### 🕌 [History Journeys - Indian Travel Guide](https://github.com/P2898/indian_heritage)
 A responsive, visually engaging front-end web application showcasing Indian heritage and travel packages.
