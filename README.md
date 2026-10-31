@@ -39,18 +39,23 @@
 **Backend & Database:**
 <br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-%234285F4.svg?style=for-the-badge&logo=google-apps-script&logoColor=white)
 
 **AI, DevOps & Tools:**
 <br/>
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-orange?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -59,6 +64,21 @@
 ---
 
 ## 🌟 Featured Projects
+
+### 🛡️ [SolarWatch AI: Edge-Native SCADA Security Watchman](https://github.com/P2898/Solar-Farm-Watchman)
+An edge-native, zero-friction cyber-physical security monitoring and threat triage appliance designed for utility-scale solar parks (500 MW+).
+* **Tech:** Python, Streamlit, Scapy, Isolation Forest (Scikit-Learn), Docker, Modbus TCP, IEC 60870-5-104
+* **Highlights:** 100% passive promiscuous sniffing (Rx only) via SPAN port, dynamic L2/L3 asset discovery, hybrid deterministic OT rules + unsupervised ML anomaly detection, and automated MITRE ATT&CK for ICS triage.
+
+### 🌡️ [Shade: Worker Heat Safety Intelligence Platform](https://github.com/P2898/FortyGuard_Databaes)
+A hyperlocal heat safety platform converting 20m environmental data into actionable occupational safety intelligence and financial evidence for outdoor workforces.
+* **Tech:** React 19, TypeScript, Tailwind CSS, FastAPI (Python), PostgreSQL, Supabase, Leaflet.js, OSMnx, NetworkX
+* **Highlights:** Real-time heat strain index monitoring, shade-optimized safe routing using street graph networks, empirical productivity loss estimation, and automated threshold alerts.
+
+### ⏳ [QTime — Virtual Queue & Wait-Time Intelligence](https://github.com/P2898/QTime)
+A real-time, fair virtual queue management system eliminating physical waiting lines in clinics, counters, and campus services.
+* **Tech:** React 18, Vite, Tailwind CSS, Supabase (Postgres, Auth, Realtime), Recharts, Lucide React
+* **Highlights:** Weighted Fair Queueing (WFQ) algorithm (`α·wait + β·priority + γ·fairness`), real-time sync via Supabase Realtime & BroadcastChannel, zero-backend mock mode, and built-in QPilot AI assistant.
 
 ### ⚡ [ZAPP Universal Translator](https://github.com/P2898/ZAPP_Hackathon)
 A real-time multilingual translation web app powered by Groq AI and LLaMA 3, supporting 100+ languages with voice input and text-to-speech.
@@ -109,7 +129,6 @@ An interactive 2D multi-agent navigation simulation featuring real-time path pla
 A responsive, visually engaging front-end web application showcasing Indian heritage and travel packages.
 * **Tech:** HTML5, CSS3, Vanilla JS
 * **Highlights:** Video background sliders, clean modular UI, built purely with core web technologies for maximum performance.
-
 
 ---
 
